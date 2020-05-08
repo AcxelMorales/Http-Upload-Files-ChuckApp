@@ -1,4 +1,4 @@
-# Congiguración
+# Configuración
 
 ### Este proyecto es el cazcaron de un proyecto con el estandar de Webpack.
 
